@@ -12,7 +12,7 @@ const Technology = () => {
       y: [10, -10],
       transition: {
         duration: duration,
-        ease: "liner",
+        easing: "linear",
         repeat: "infinity",
         repeatType: "reverse",
       },
